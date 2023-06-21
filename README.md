@@ -1,4 +1,4 @@
-### About me
+## ABOUT ME
 **Name:** Rodrigo Elizeu Cherutti  
 **E-mail:** rodrigocherutti@hotmail.com  
 **Github:** https://github.com/PregoBS 
@@ -22,13 +22,13 @@ Make great use of my capability to learn things quickly in order to bring valuab
 
 ### Technical skills
 #### Languages:
-`JavaScript` `Python` `MongoDB` `SQL`  
+`JavaScript` `Python` `NodeJS` `Rust`
 
-#### Technologies:
-`React` `Node` `HTML` `CSS` `Docker` `AWS` `JSON` `YAML`
+#### Databases:
+`MongoDB` `SQL`
 
-#### Knowledges as a guide: 
-`TDD` `SOLID` `Micro Services`
+#### Technologies / Frameworks:
+`React` `React-Native` `NextJS` `TypeScript` `HTML` `CSS/SASS` `Docker` `AWS` `Tailwind CSS`
 
 ### Project Links
 - https://myjobupgrade.com/
