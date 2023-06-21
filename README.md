@@ -3,7 +3,7 @@
 **E-mail:** rodrigocherutti@hotmail.com  
 **Github:** https://github.com/PregoBS 
 
-Financial market enthusiast.   
+Investor.   
 I started to learn programming by my own to help achive my goal as an investor.   
 Programming since APR/2021.
 
