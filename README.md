@@ -13,9 +13,12 @@ Make great use of my capability to learn things quickly in order to bring valuab
 ### Projects
 |Project|Period|Responsabilities|Tech stack|
 |-|-|-|-|
-|_Financial Analysis Website_|2021-now|Owner/Developer|`Python` `JavaScript` `Node` `React` `MongoDB` `Docker` `Micro Services` `HTTP` `HTML` `CSS` `SSL` `AWS` `DNS` `JSON` `YAML` `SOLID`|
-|_Financial Trade BOT_|2021-now|Owner/Developer|`MQL5` `Python` `Machine Learning`|
-|_Financial Copy Trade BOT_|2021|Owner/Developer|`Python`|
+|_My job Upgrade_|2023|Developer|`JavaScript` `NodeJS` `NextJS` `OpenAI GPT` `HTML` `TAILWIND CSS`|
+|_Eletrônicos Baratos_|2023|Developer|`JavaScript` `NodeJS` `NextJS` `OpenAI GPT` `HTML` `SASS`|
+|_Nefroatual Mobile App_|2022|Developer|`JavaScript` `NodeJS` `React-Native` `Firebase`|
+|_Financial Analysis WebApp_|2021-2022|Developer|`Python` `JavaScript` `NodeJS` `React` `MongoDB` `Docker` `Micro Services` `Cloud` `HTML` `CSS`|
+|_Financial Trade BOT_|2021-2023|Developer|`MQL5` `Python` `Machine Learning`|
+|_Financial Copy Trade BOT_|2021|Developer|`Python`|
 
 ### Technical skills
 #### Languages:
@@ -27,5 +30,7 @@ Make great use of my capability to learn things quickly in order to bring valuab
 #### Knowledges as a guide: 
 `TDD` `SOLID` `Micro Services`
 
-### My website
-- https://sinaisquant.com.br/ (under development)
+### Project Links
+- https://myjobupgrade.com/
+- https://eletronicos-baratos.vercel.app/
+- Nefroatual Mobile App - [App Store](https://apps.apple.com/br/app/nefroatual/id6444686617) or [Google Play Store](https://play.google.com/store/apps/details?id=com.superCoach.aprovaCoachMobile)
