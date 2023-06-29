@@ -17,6 +17,7 @@ Make great use of my capability to learn things quickly in order to bring valuab
 |_Eletrônicos Baratos_|2023|Developer|`JavaScript` `NodeJS` `NextJS` `OpenAI GPT` `HTML` `SASS`|
 |_Nefroatual Mobile App_|2022|Developer|`JavaScript` `NodeJS` `React-Native` `Firebase`|
 |_Financial Analysis WebApp_|2021-2022|Developer|`Python` `JavaScript` `NodeJS` `React` `MongoDB` `Docker` `Micro Services` `Cloud` `HTML` `CSS`|
+|_Stock Screener_|2021-2022|Developer|`Python`|
 |_Financial Trade BOT_|2021-2023|Developer|`MQL5` `Python` `Machine Learning`|
 |_Financial Copy Trade BOT_|2021|Developer|`Python`|
 
