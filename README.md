@@ -13,8 +13,9 @@ Make great use of my capability to learn things quickly in order to bring valuab
 ### Projects
 |Project|Period|Responsabilities|Tech stack|
 |-|-|-|-|
-|_My job Upgrade_|2023|Developer|`JavaScript` `NodeJS` `NextJS` `OpenAI GPT` `HTML` `TAILWIND CSS`|
-|_Eletrônicos Baratos_|2023|Developer|`JavaScript` `NodeJS` `NextJS` `OpenAI GPT` `HTML` `SASS`|
+|_Nefroatual Website_|2023|Developer|`JavaScript` `AstroJS` `React` `Firebase` `TAILWIND CSS`|
+|_My job Upgrade_|2023|Developer|`JavaScript` `NextJS` `OpenAI GPT` `HTML` `TAILWIND CSS`|
+|_Eletrônicos Baratos_|2023|Developer|`JavaScript` `NextJS` `OpenAI GPT` `HTML` `SASS`|
 |_Nefroatual Mobile App_|2022|Developer|`JavaScript` `NodeJS` `React-Native` `Firebase`|
 |_Financial Analysis WebApp_|2021-2022|Developer|`Python` `JavaScript` `NodeJS` `React` `MongoDB` `Docker` `Micro Services` `Cloud` `HTML` `CSS`|
 |_Stock Screener_|2021-2022|Developer|`Python`|
@@ -32,6 +33,7 @@ Make great use of my capability to learn things quickly in order to bring valuab
 `React` `React-Native` `NextJS` `TypeScript` `HTML` `CSS/SASS` `Docker` `AWS` `Tailwind CSS`
 
 ### Project Links
-- https://myjobupgrade.com/
-- https://eletronicos-baratos.vercel.app/
+- [My Job Upgrade](https://myjobupgrade.com/)
+- [Eletrônicos Baratos](https://eletronicos-baratos.vercel.app/)
 - Nefroatual Mobile App - [App Store](https://apps.apple.com/br/app/nefroatual/id6444686617) or [Google Play Store](https://play.google.com/store/apps/details?id=com.superCoach.aprovaCoachMobile)
+- [Nefroatual](https://nefroatual.com.br)
