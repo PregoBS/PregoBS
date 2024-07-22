@@ -9,7 +9,7 @@ Make great use of my capability to learn things quickly in order to bring valuab
 ### Projects
 |Project|Period|Responsabilities|Tech stack|
 |-|-|-|-|
-|_Lojas Renner Projects_|2023-2024|Developer|`JavaScript` `Python` `NodeJS` `Typescript` `Kotlin` `Java`|
+|_Lojas Renner Projects_|2023-2024|Developer|`JavaScript` `Python` `NodeJS` `Typescript` `Kotlin` `Java` `Rust` `React`|
 |_Loterias de Ouro Mobile App_|2023-2024|Developer|`JavaScript` `Python` `NodeJS` `React-Native` `Firebase` `Typescript` `Expo`|
 |_Nefroatual Website_|2023|Developer|`JavaScript` `Typescript` `AstroJS` `React` `Firebase` `Tailwind CSS` `CI/CD`|
 |_Nefroatual Mobile App_|2022-2024|Developer|`JavaScript` `NodeJS` `React-Native` `Firebase` `Typescript` `Expo`|
