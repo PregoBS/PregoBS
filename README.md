@@ -2,6 +2,7 @@
 **Name:** Rodrigo Elizeu Cherutti  
 **E-mail:** rodrigocherutti@hotmail.com  
 **Github:** https://github.com/PregoBS 
+**Portfolio:** https://pregobs.xyz 
 
 ### Professional goal
 Make great use of my capability to learn things quickly in order to bring valuable solutions to people.
